@@ -12,7 +12,7 @@ Welcome to web desgin and development's documentation!
    
    Introduction to rst
    
-   Introduction to Django
+   Introduction to django
 
 
 
