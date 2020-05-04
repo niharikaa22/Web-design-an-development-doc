@@ -11,6 +11,8 @@ Welcome to web desgin and development's documentation!
    :numbered:
    
    Introduction to rst
+   
+   Introduction to Django
 
 
 
