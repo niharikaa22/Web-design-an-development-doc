@@ -8,7 +8,9 @@ Welcome to web desgin and development's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   
+   Introduction to rst
 
 
 
