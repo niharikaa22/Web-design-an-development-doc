@@ -32,7 +32,7 @@ import sphinx_rtd_theme
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['recommonmark', ...
+extensions = ['recommonmark', 
     'sphinx_rtd_theme',]
 templates_path = ['_templates']
 source_suffix = ['.rst','.md']
